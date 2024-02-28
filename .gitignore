@@ -1,0 +1,10 @@
+# Variable files
+.terraform.lock.hcl
+
+# Module directory
+.terraform/
+
+# Compiled files
+terraform.tfstate
+terraform.tfstate.backup
+
