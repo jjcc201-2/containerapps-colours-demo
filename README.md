@@ -5,6 +5,10 @@ Based on Mark Harrison's Container Apps hands-on lab https://markharrison.io/lab
 
 This project takes the step-by-step guide in Mark's hands-on lab and provides it as Terraform infrastructure-as-code, in order to quickly spin up & tear down the environment for demonstration purposes. Currently up to and including "Deploy APIApp"
 
+## Pre-Reqs
+1. An Azure subscription, linked to your developer environment, with permissions to write and delete resources
+2. Understanding and experience in writing and utilising Terraform as infrastructure-as-code
+
 ## Setting Up the Project Locally
 
 This project can be set up locally on:
